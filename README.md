@@ -15,5 +15,4 @@ Download the source code.
 Locate and Extract the zip file.  
 Open the extracted folder |
 Find and locate the file "index.html". 
-Open the file in a web browser(Chrome, Firefox, etc..). 
-
+Open the file in a web browser(Chrome, Firefox, etc..).
